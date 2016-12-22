@@ -7,7 +7,7 @@ body{margin: 0; padding: 0; font-family:'Montserrat',"游ゴシック", YuGothic
 .slider1{
 }
 
-.s1{background:url(../img/dekikata2016_mockup.png) center;}
+.s1{background:url(../img/dekikata2017_mockup.png) center;}
 .s2{background:url(../img/sc2.png);}
 .s3{background:url(../img/sc3.png);}
 .sl-base{
@@ -19,9 +19,9 @@ body{margin: 0; padding: 0; font-family:'Montserrat',"游ゴシック", YuGothic
 	box-shadow:rgba(0, 0, 0, 0.2) 0px 0px 10px -1px inset;
 	-webkit-box-shadow:rgba(0, 0, 0, 0.2) 0px 0px 10px -1px inset;
 	-moz-box-shadow:rgba(0, 0, 0, 0.2) 0px 0px 10px -1px inset;
-	
+
 	}
-	
+
 
 .p{
 	margin-top:60px;
@@ -32,7 +32,7 @@ body{margin: 0; padding: 0; font-family:'Montserrat',"游ゴシック", YuGothic
 	border-radius:5px;
 	background-color:rgba(255,255,255,0.7);
 }
-	
+
 
 #header{
 	position: fixed;
@@ -73,7 +73,7 @@ body{margin: 0; padding: 0; font-family:'Montserrat',"游ゴシック", YuGothic
 
 #link li {
 	list-style: none;
-	float:left;	
+	float:left;
 	width:15%;
 	margin-right:1.6%;
 	display:table-cell;
@@ -88,7 +88,7 @@ body{margin: 0; padding: 0; font-family:'Montserrat',"游ゴシック", YuGothic
 	border-radius: 3px;
 	background-color:#FAF7F4;
 	transition:background-color 0.5s, border-color 0.5s ;
-	
+
 }
 .thumb:hover{background-color:#b6c5c9;}
 .new{
@@ -114,6 +114,7 @@ body{margin: 0; padding: 0; font-family:'Montserrat',"游ゴシック", YuGothic
 	width:250px;
 	height:250px;
 	float:right;
+	//background:url(../img/kokuchi02.png) no-repeat ;
 	background-size: contain;
 }
 
